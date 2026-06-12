@@ -1,5 +1,5 @@
 ## 【アプリ名：インタラクティブ台形変形ツール】  
-Copyright (c) 2026 TaguchiModels  
+TaguchiModels  
 
 本ソフトは、個人が開発・無償公開しているフリーソフトです  
 
